@@ -1,5 +1,6 @@
 # About me
 My name is Maneerat (She,Her). I'm studying MISM-16 months program in Heinz College.
+I did my bachelor degree in engineering at the best university in Thailand.
 Prior my master degree, I worked full-time in the consulting firm for both private and government sectors for almost 2 years.
 
 Here are a few interesting things about me....
