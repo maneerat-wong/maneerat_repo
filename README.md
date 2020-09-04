@@ -1,8 +1,10 @@
 # About me
 My name is Maneerat (She,Her). I'm studying MISM-16 months program in Heinz College.
+Prior my master degree, I worked full-time in the consulting firm for both private and government sectors for almost 2 years.
 
 Here are a few interesting things about me....
 - I'm Thai. I was born and raised in Bangkok.
+- I can speak 4 languages.
 - I'm an obvious extrovert XD
 - I played Trombone in the orchestra band for 3 years.
 - I'm a board game master. My friends ask me every weekend to play with them.
@@ -12,3 +14,6 @@ I'm interested in the methodoloy to present the data profesionally. As I want to
 
 # Career Goal
 After graduation, I want to be a data scientist in the company where I can use my technical skills and business experience to find an impactful insight to improve the company performance. I believe that the soft skills like presentation and data visualization are going to enhance my ability to deliver the best outcome to the company.
+
+# Portfolio
+Here are some visualization that I have done....
