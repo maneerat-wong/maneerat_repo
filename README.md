@@ -28,4 +28,4 @@ Here are some visualization that I have done....
 ## General Government Debt Ratio version 1
 <div class="flourish-embed flourish-chart" data-src="visualisation/3722143" data-url="https://flo.uri.sh/visualisation/3722143/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-##General Government Debt Ratio version 2
+## General Government Debt Ratio version 2
