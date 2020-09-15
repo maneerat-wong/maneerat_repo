@@ -34,3 +34,4 @@ Here are some visualization that I have done....
 <div class="flourish-embed flourish-chart" data-src="visualisation/3722143" data-url="https://flo.uri.sh/visualisation/3722143/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### version 3
+<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/3747893" data-url="https://flo.uri.sh/visualisation/3747893/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
