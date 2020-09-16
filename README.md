@@ -27,11 +27,14 @@ Here are some visualization that I have done....
 
 ## General Government Debt Ratio 
 
-### version 1
-<iframe src="https://data.oecd.org/chart/65rl" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/65rl" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
+### version 1 (Bar Chart)
+This is the simple bar chart that we can see the comparison of each country in the specific year.
+<iframe src="https://data.oecd.org/chart/65Ff" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/65Ff" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
 
-### version 2
+### version 2 (Grid of Line Chart)
+This is Grid Line Chart can provide more information as it show the data of every data in each country. We can see the trend of the particular country but it's hard to compare country by country.
 <div class="flourish-embed flourish-chart" data-src="visualisation/3722143" data-url="https://flo.uri.sh/visualisation/3722143/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-### version 3
+### version 3 (Race Bar Chart)
+The race bar chart is designed to give the comparison in each year. I chose top ten country because I want to highlight the top country rather than showing all countries which will make the visualization hard to see. I chose differnt color for different country because it's easier to distinguish and see the comparison.
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/3747893" data-url="https://flo.uri.sh/visualisation/3747893/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
