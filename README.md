@@ -15,7 +15,12 @@ I'm interested in the methodoloy to present the data profesionally. As I want to
 # Career Goal
 After graduation, I want to be a data scientist in the company where I can use my technical skills and business experience to find an impactful insight to improve the company performance. I believe that the soft skills like presentation and data visualization are going to enhance my ability to deliver the best outcome to the company.
 
-# Portfolio
+# Personal Project on Data Scientist
+## Personal project on loan performance analysis
+
+https://github.com/maneerat-wong/loan_performance
+
+# Portfolio (Data Visulization)
 Here are some visualization that I have done....
 
 ## King County COVID-19 Data
