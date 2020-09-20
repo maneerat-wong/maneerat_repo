@@ -1,5 +1,5 @@
 # About me
-My name is Maneerat (She,Her). I'm studying MISM-16 months program in Heinz College.
+My name is Maneerat Wongjaroenporn (She,Her). I'm studying MISM-16 months program in Heinz College.
 I did my bachelor degree in engineering. Prior my master degree, I worked full-time in the consulting firm for both private and government sectors for almost 2 years.
 
 Here are a few interesting things about me....
@@ -9,7 +9,7 @@ Here are a few interesting things about me....
 - I played Trombone in the orchestra band for 3 years.
 - I'm a board game master. My friends ask me every weekend to play with them.
 
-## What I hope to learn
+## What I hope to learn (from Datavisualization class)
 I'm interested in the methodoloy to present the data profesionally. As I want to be a data scientist, I strongly believe that this skill is very important for communicate the insight that I have found to all stakeholders.
 
 # Career Goal
@@ -38,3 +38,5 @@ This is Grid Line Chart can provide more information as it show the data of ever
 ### version 3 (Race Bar Chart)
 The race bar chart is designed to give the comparison in each year. I chose top ten country because I want to highlight the top country rather than showing all countries which will make the visualization hard to see. I chose differnt color for different country because it's easier to distinguish and see the comparison.
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/3747893" data-url="https://flo.uri.sh/visualisation/3747893/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
