@@ -47,6 +47,7 @@ The race bar chart is designed to give the comparison in each year. I chose top 
 ## Volume of U.S. exports of trade goods to Thailand from 1985 to 2019 (Assignment 4)
 
 The original visualization : https://www.statista.com/statistics/186559/volume-of-us-exports-of-trade-goods-to-thailand-since-1985/
+![image](original_viz.png)
 
 ### Wireframe the solution
 The good thing in this graph is its simplicity. I tells us the information of the U.S. exports to Thailand from 1985 to 2019 but it doesn't give me any more information. I can tell that there is an increasing trend each year but the visualization is still hard to compare because the figure is very big. Therefore, I want to recreate it as a line chart so that it's easier to see the trend and any significant insight.
