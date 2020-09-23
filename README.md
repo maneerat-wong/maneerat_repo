@@ -44,4 +44,13 @@ This is Grid Line Chart can provide more information as it show the data of ever
 The race bar chart is designed to give the comparison in each year. I chose top ten country because I want to highlight the top country rather than showing all countries which will make the visualization hard to see. I chose differnt color for different country because it's easier to distinguish and see the comparison.
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/3747893" data-url="https://flo.uri.sh/visualisation/3747893/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+## Volume of U.S. exports of trade goods to Thailand from 1985 to 2019 (Assignment 4)
+
+The original visualization : https://www.statista.com/statistics/186559/volume-of-us-exports-of-trade-goods-to-thailand-since-1985/
+
+### Wireframe the solution
+The good thing in this graph is its simplicity. I tells us the information of the U.S. exports to Thailand from 1985 to 2019 but it doesn't give me any more information. I can tell that there is an increasing trend each year but the visualization is still hard to compare because the figure is very big. Therefore, I want to recreate it as a line chart so that it's easier to see the trend and any significant insight.
+
+This is the sketch :
+![image] https://ibb.co/7rpRs1T
 
