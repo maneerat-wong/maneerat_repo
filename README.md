@@ -1,5 +1,5 @@
 # About me
-My name is Maneerat Wongjaroenporn (She,Her). I'm studying MISM-16 months program in Heinz College.
+My name is Maneerat Wongjaroenporn (She,Her). I'm studying MISM-16 months program in Heinz College,Carnegie Mellon University.
 I did my bachelor degree in engineering. Prior my master degree, I worked full-time in the consulting firm for both private and government sectors for almost 2 years.
 
 Here are a few interesting things about me....
@@ -52,9 +52,9 @@ The original visualization : https://www.statista.com/statistics/186559/volume-o
 The good thing in this graph is its simplicity. I tells us the information of the U.S. exports to Thailand from 1985 to 2019 but it doesn't give me any more information. I can tell that there is an increasing trend each year but the visualization is still hard to compare because the figure is very big. Therefore, I want to recreate it as a line chart so that it's easier to see the trend and any significant insight.
 
 This is the sketch :
-![image](https://ibb.co/7rpRs1T)
+![alt text](https://ibb.co/7rpRs1T)
 
-I have asked for the feedback from a number of friend and these are the comment that I got
-Feedback 1 : 
-Feedback 2 :
-
+After creating the draft, I have asked for the feedback from a number of friend to test my solution.
+Feedback 1 : He can tell that this is the graph of U.S. exportation to Thailand but he doesn't understand what is EYR. He can see that there is an increasing trend in the export volumn but he doesn't know what is the main information that he needs to pay attention on. The audience in this graph might be a person with the background in economic or international relation but doesn't need to be an expert in this field. He would like to add more detail on the % change in each year and emphsize the specific time that needs the attention from the audience.
+Feedback 2 : He can tell that there is an increase in exports from 1984 to present but he wasn't sure what is EYR. He wasn't sure why the line is quite straight at time and not in other times. He believe that the intended audience is the expert in subject matter. The main thing that he would like to change is adding the units in the axis and explanation or caption for the graph.
+Feedback 3: He thinks that it's the graph that shows the exports volume of U.S. to Thailand over time during 1985-2019. It's telling that over time, U.S. trade goods export has a upward increasing trend. Some year has a drop, for example, in 2009, this could happen from the financial crisis in 2008. Overall, the export of U.S. to Thailand has positive slope.3. He's not sure what event happened during 1997-1999 that causes the export to significantly decreased. Again, I have no idea what happended during 2002 that cause the export to drop in that year. He believes that it could be use as a material in global economics class for undergraduate or graduate students. He might indicate the major event that causes the export to decrease on year 1997-1999, 2002, 2008, and 2016.
