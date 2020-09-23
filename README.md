@@ -52,7 +52,7 @@ The original visualization : https://www.statista.com/statistics/186559/volume-o
 The good thing in this graph is its simplicity. I tells us the information of the U.S. exports to Thailand from 1985 to 2019 but it doesn't give me any more information. I can tell that there is an increasing trend each year but the visualization is still hard to compare because the figure is very big. Therefore, I want to recreate it as a line chart so that it's easier to see the trend and any significant insight.
 
 This is the sketch :
-![image](https://ibb.co/7rpRs1T)
+![image](sketch.png)
 
 After creating the draft, I have asked for the feedback from a number of friend to test my solution.
 
