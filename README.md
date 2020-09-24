@@ -45,6 +45,7 @@ The race bar chart is designed to give the comparison in each year. I chose top 
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/3747893" data-url="https://flo.uri.sh/visualisation/3747893/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Volume of U.S. exports of trade goods to Thailand from 1985 to 2019 (Assignment 4)
+I chose this visualization because I'm interested in the relationship between United States commerce and my country. Thailand is a small country but we value the products from United States as a high-end product.
 
 The original visualization : https://www.statista.com/statistics/186559/volume-of-us-exports-of-trade-goods-to-thailand-since-1985/
 ![image](original_viz.png)
@@ -66,6 +67,6 @@ Feedback 3: He thinks that it's the graph that shows the exports volume of U.S. 
 Feedback 4 : She can tell that a graph is showing the US exports of traded goods to thailand. It shows an increasing trend in the past 36 years, despite some dips in some years. Those dips happened during the recessions. She doesn't know what EYR is. The intended audience is the exporting companies, economists, investors, etc. If she could change the graph, she would explicitly explain the unit of the y-axis and explain why there are some dips or accelerations in some periods. She may compare the US exports to other countries that are relatively in the same rank with thailand to see if there are a similar trends. 
 
 ### Final Visualization
-From the feedback that I got, I definately have to change the y-axis label. Also, I think adding the information of other country to compare with Thai data is also useful. I chose to compare with the country in south east asia because of the geography and economic situation.
+From the feedback that I got, I definately have to change the y-axis label. Also, I think adding the information of other country to compare with Thai data is also useful. I chose to compare with the country in south east asia because of the geography and economic situation. I can see that U.S. product is very popular among Thai people. The trend has been increasing over times.
 
 <script type='text/javascript' src='https://prod-useast-a.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1440px; height: 656px;'><object class='tableauViz' width='1440' height='656' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-a.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;maneeratwong' /><param name='name' value='U_S_exporttoThailand&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
