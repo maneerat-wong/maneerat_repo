@@ -69,4 +69,4 @@ Feedback 4 : She can tell that a graph is showing the US exports of traded goods
 ### Final Visualization
 From the feedback that I got, I definately have to change the y-axis label. Also, I think adding the information of other country to compare with Thai data is also useful. I chose to compare with the country in south east asia because of the geography and economic situation. I can see that U.S. product is very popular among Thai people. The trend has been increasing over times.
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/HW3_16009890710200/Sheet1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450'></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/HW3_16009890710200/Sheet1?:embed=yes&:display_count=yes&:showVizHome=no" width = '950' height = '750'></iframe>
