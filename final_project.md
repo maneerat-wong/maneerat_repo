@@ -17,9 +17,17 @@ I can do this by planning a trip to Thailand
 I can do this by studying more Thai
 
 User Story:
-![image] :(user_stort_draft1.png "Draft 1")
+
+![image](user_stort_draft1.png "Draft 1")
 
 # Data Source
+Tourism Data Set : 
+https://data.world/payapdatasci/thai-tourism/workspace/file?filename=thaitourism2.csv
+
+
+Covid-19 Data Set (showing that we can cope with the situation well) :
+https://www.statista.com/statistics/1043366/novel-coronavirus-2019ncov-cases-worldwide-by-country/
+
 
 
 # Method and Medium
