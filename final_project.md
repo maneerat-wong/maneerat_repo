@@ -18,7 +18,7 @@ I can do this by studying more Thai
 
 User Story:
 
-![image](user_stort_draft1.png "Draft 1")
+![image](user_stort_draft1.jpg "Draft 1")
 
 # Data Source
 Tourism Data Set : 
