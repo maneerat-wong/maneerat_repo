@@ -18,7 +18,7 @@ I can do this by studying more Thai
 
 User Story:
 
-![image](user_stort_draft1.jpg "Draft 1")
+![image](user_story_draft1.jpg)
 
 # Data Source
 Tourism Data Set : 
@@ -31,3 +31,10 @@ https://www.statista.com/statistics/1043366/novel-coronavirus-2019ncov-cases-wor
 
 
 # Method and Medium
+
+I will create my project on shorthand.
+- Introducing the inspiration of Thai Tourism
+- Telling a little bit about economic and culture
+- Talking about COVID-19 case
+- What to know about travelling to Thailand next time
+- Call to action
