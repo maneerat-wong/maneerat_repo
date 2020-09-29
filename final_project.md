@@ -17,8 +17,7 @@ I can do this by planning a trip to Thailand
 I can do this by studying more Thai
 
 User Story:
-Draft 1 :
-
+![image] :(user_stort_draft1.png "Draft 1")
 
 # Data Source
 
