@@ -20,9 +20,6 @@ User Story:
 
 ![image](user_story_draft1.jpg)
 
-# Web Draft
-
-![image](web_draft.jpg)
 
 # Data Source
 Tourism Data Set : 
@@ -39,6 +36,8 @@ I will create my project on shorthand.
 - Introducing the inspiration of Thai Tourism
 - Telling a little bit about economic and culture
 - Diversity in the different city
-- Talking about COVID-19 case
 - What to know about travelling to Thailand next time
 - Call to action
+
+## Web Draft
+![image](web_draft.jpg)
