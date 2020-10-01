@@ -22,7 +22,7 @@ User Story:
 
 # Web Draft
 
-![image](web draft.jpg)
+![image](web draft.png)
 
 # Data Source
 Tourism Data Set : 
