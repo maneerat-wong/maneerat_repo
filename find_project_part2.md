@@ -1,13 +1,16 @@
-# Final Project Part II
 
-## Story Board
+# Recap Project Overview
+In this project, I want to show people the unique and surprising fact about my country,Thailand.
+Most people want to go to Thailand because of the tourism but I want to show other side of the country including culture and etc.
+
+# Story Board
 I do my storyboard on Shorthand because I will do my final presentation on the Shorthand. Therefore,it's easier for the user to see the overall flow as well.
 
 <img src="shorthand_1.PNG" alt="story_board_1" width="200"/> ---> <img src="shorthand_2.PNG" alt="story_board_2" width="200"/> --> <img src="shorthand_3.PNG" alt="story_board_3" width="200"/> --->  <img src="shorthand_4.PNG" alt="story_board_1" width="200"/> ---> <img src="shorthand_5.PNG" alt="story_board_1" width="200"/> ---> <img src="shorthand_6.PNG" alt="story_board_1" width="200"/> --> <img src="shorthand_7.PNG" alt="story_board_1" width="200"/> ---> <img src="shorthand_8.PNG" alt="story_board_1" width="200"/>  ---> <img src="shorthand_9.PNG" alt="story_board_1" width="200"/> ---> <img src="shorthand_10.PNG" alt="story_board_1" width="200"/> 
 
-## User interview
+# User interview
 
-### User 1
+## User 1
 
 <em>J : Who is the target audience of this story?
 
@@ -38,6 +41,7 @@ I think that I have to change the graph type and make it easier to understand
 
 Changing Graph:
 
-### User 2
+## User 2
 
-## Next Step
+# Next Step
+
