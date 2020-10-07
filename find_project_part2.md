@@ -26,6 +26,12 @@ Changing Graph:
 
 # Finding
 
+| Questions                                                 | Findings                                                                                                                                                                                                                        | Plan on changing                                                             |
+|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| What is your first thought after seeing this story?       | Users understand that Thailand is still welcoming for traveling and it's a really interesting destination to go.                                                                                                                | Giving more description on food/places                                       |
+| How do you feel after reading about the crime rate stats? | Users don't feel that it's safe to travel to Thailand because I compare it with USA which is the country with a high reputation of crime rate. Therefore, the message that Thailand is safe to travel is not persuasive at all. | Finding other comparison. For example, compare with the country in SEA       |
+| Is anything surprising or confusing?                      | Users were confused on the map graph representing the distribution of the tourists. Also, the frist graph doesn't really tell users anything that Thailand is doing really well in tourism industry.                            | Revise the graph type of the tourist distribution graph and the first graph. |
+
 # Next Step
 
 This is the latest version of my draft : https://carnegiemellon.shorthandstories.com/blend-into-thailand/index.html
