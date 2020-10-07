@@ -45,3 +45,5 @@ Changing Graph:
 
 # Next Step
 
+This is the latest version of my draft : https://carnegiemellon.shorthandstories.com/blend-into-thailand/index.html
+I will mainly work on the vizualization to make sure that I've delivered the persuasive and compelling message to my user.
