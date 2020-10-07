@@ -31,5 +31,6 @@ I do my storyboard on Shorthand because I will do my final presentation on the S
 # Next Step
 
 This is the latest version of my draft : https://carnegiemellon.shorthandstories.com/blend-into-thailand/index.html
+
 I will mainly work on the vizualization to make sure that I've delivered the persuasive and compelling message to my user.
 Also, I hope to get more insightful thoughts during the revision in the class.
