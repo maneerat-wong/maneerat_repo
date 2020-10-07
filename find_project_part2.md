@@ -1,12 +1,8 @@
 # Final Project Part II
 
 ## Story Board
-<img src="shorthand_1.PNG" alt="story_board_1" width="200"/>
-![image](shorthand_2.PNG =250x)
-![image](shorthand_3.PNG =250x)
-![image](shorthand_4.PNG =250x)
-![image](shorthand_5.PNG =250x)
-![image](shorthand_6.PNG =250x)
+<img src="shorthand_1.PNG" alt="story_board_1" width="200"/> ---> <img src="shorthand_2.PNG" alt="story_board_2" width="200"/> --> <img src="shorthand_3.PNG" alt="story_board_3" width="200"/>
+<img src="shorthand_4.PNG" alt="story_board_1" width="200"/> ---> <img src="shorthand_5.PNG" alt="story_board_1" width="200"/> --> <img src="shorthand_6.PNG" alt="story_board_1" width="200"/>
 ![image](shorthand_7.PNG =250x)
 ![image](shorthand_8.PNG =250x)
 ![image](shorthand_9.PNG =250x)
