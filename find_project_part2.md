@@ -1,7 +1,7 @@
 # Final Project Part II
 
 ## Story Board
-![image](shorthand_1.PNG =250x)
+<img src="shorthand_1.PNG" alt="story_board_1" width="200"/>
 ![image](shorthand_2.PNG =250x)
 ![image](shorthand_3.PNG =250x)
 ![image](shorthand_4.PNG =250x)
