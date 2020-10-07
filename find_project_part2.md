@@ -1,13 +1,15 @@
 # Final Project Part II
 
 ## Story Board
+I do my storyboard on Shorthand because I will do my final presentation on the Shorthand. Therefore,it's easier for the user to see the overall flow as well.
+
 <img src="shorthand_1.PNG" alt="story_board_1" width="200"/> ---> <img src="shorthand_2.PNG" alt="story_board_2" width="200"/> --> <img src="shorthand_3.PNG" alt="story_board_3" width="200"/> --->  <img src="shorthand_4.PNG" alt="story_board_1" width="200"/> ---> <img src="shorthand_5.PNG" alt="story_board_1" width="200"/> ---> <img src="shorthand_6.PNG" alt="story_board_1" width="200"/> --> <img src="shorthand_7.PNG" alt="story_board_1" width="200"/> ---> <img src="shorthand_8.PNG" alt="story_board_1" width="200"/>  ---> <img src="shorthand_9.PNG" alt="story_board_1" width="200"/> ---> <img src="shorthand_10.PNG" alt="story_board_1" width="200"/> 
 
 ## User interview
 
 ### User 1
 
-*J : Who is the target audience of this story?
+<em>J : Who is the target audience of this story?
 
 User 1 : I think it's for the tourist who are looking for a place to travel during this situation(COVID-19)
 
@@ -29,7 +31,7 @@ User 1 : The flow is interesting. You use the introduction with the inspiration 
 
 J : What would you change about this story?
 
-User 1 : Mostly the data vizualization*
+User 1 : Mostly the data vizualization</em>
 
 <ins>Overall feedback</ins>
 I think that I have to change the graph type and make it easier to understand
