@@ -7,7 +7,7 @@
 
 ### User 1
 
-J : Who is the target audience of this story?
+*J : Who is the target audience of this story?
 
 User 1 : I think it's for the tourist who are looking for a place to travel during this situation(COVID-19)
 
@@ -29,11 +29,13 @@ User 1 : The flow is interesting. You use the introduction with the inspiration 
 
 J : What would you change about this story?
 
-User 1 : Mostly the data vizualization
+User 1 : Mostly the data vizualization*
 
-Overall feedback
+<ins>Overall feedback</ins>
 I think that I have to change the graph type and make it easier to understand
 
-Changing Grapg:
+Changing Graph:
 
 ### User 2
+
+## Next Step
