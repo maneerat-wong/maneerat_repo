@@ -19,12 +19,8 @@ I do my storyboard on Shorthand because I will do my final presentation on the S
 | What do you think about the flow of the story?            | The flow is interesting. You use the introduction with the inspiration then telling about the cuation or concerns during traveling.                                                                                                                                                                                                                                                                                                                                         | I think it's good. Better add some description of places/food instead of just images.                                                                                       |                      |
 | What would you change about this story?                   | Mostly the data vizualization                                                                                                                                                                                                                                                                                                                                                                                                                                               | If you have data for 2019 for first graph it will be better.                                                                                                                |                      |
 
-<ins>Overall feedback</ins>
-I think that I have to change the graph type and make it easier to understand
 
-Changing Graph:
-
-# Finding
+# Finding and plan on changing
 
 | Questions                                                 | Findings                                                                                                                                                                                                                        | Plan on changing                                                             |
 |-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -36,3 +32,4 @@ Changing Graph:
 
 This is the latest version of my draft : https://carnegiemellon.shorthandstories.com/blend-into-thailand/index.html
 I will mainly work on the vizualization to make sure that I've delivered the persuasive and compelling message to my user.
+Also, I hope to get more insightful thoughts during the revision in the class.
