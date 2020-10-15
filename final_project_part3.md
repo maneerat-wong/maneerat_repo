@@ -101,11 +101,25 @@ Datasource on the website
 - Crime rate data : https://data.worldbank.org/indicator/VC.IHR.PSRC.P5?end=2017&locations=TH&start=1990&view=chart
 
 Visualization in the story :
-I use Tabluae and Flourish to create visualization in the story. However, the graph from Tabluae is very small when embed into  Shorthand. Therefore, I decided to capture the picture of those graph instead.
+I use Tabluae and Flourish to create visualization in the story. However, the graph from Tabluae is very small when embed into  Shorthand. As I want the users to clearly see the graph,I decided to capture the picture of those graph instead.
 
 1. Factors related to Thailand as a tourist destination: https://public.tableau.com/profile/maneerat4604#!/vizhome/ImportanceScoreonFactor/Sheet1
+I chose bar chart becuase it's the easiest graph to see the comparison. I highlighted only the first three because these are the aspects that I want to highlight in the story.
 
+2. Global Destination City Index:
+https://public.flourish.studio/visualisation/3936377/
+I chose the bar graph and highlighted only the country from Thailand because I want to emphasize the high number of visitors among other cities.
 
+3. Tourists Distribution among countries : https://public.flourish.studio/visualisation/3944750/
+I chose the map graph and the color with label so that it's easy to distinguish the density from each country.
+
+4. Quality of Life vs Cost of Living :https://public.tableau.com/profile/maneerat4604#!/vizhome/Quality_life_2020_Cost/Sheet2
+5. Quality of Life cs Health care index :
+
+I chose scatter plot for both (4) and (5) because I want to say that the quality of life might have to trade of with some factors in some countries. However, we can have both good quality of life with a reasonable cost of living and very decent health care system.
+
+6. Crime Rate : https://public.flourish.studio/visualisation/4028353/?utm_source=showcase&utm_campaign=visualisation/4028353
+I chose the line graph to show the trend of the crime rate. I want to tell the user that we are doing very well in the recent year and the trend has been changing in a good way.
 
 Reference : https://travel.eatsandretreats.com/family-things-to-do-thailand/
 
