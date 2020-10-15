@@ -89,7 +89,7 @@ Surprisingly, most friends suggested me to remove the covid section because it's
 
 # Final Data Story
 
-The audience of my story is foreigners who are considering a travel plan. I want to pursuade them to choose Thailand as a next destination.
+The audience of my story is foreigners who are considering a travel plan. I want to pursuade them to choose Thailand as a next destination. I've recieved the feedback from some friends that they were really hesitated to go to Thailand because of bad rumours. However, they were really surprised when they arrived that the bad rumours are not a majority part of the society at all. Therefore, I want my audience to change their mind that this is a really good country that they should visit once in a life.
 
 Final Presentation : https://carnegiemellon.shorthandstories.com/blending-into-the-land-of-smile/index.html
 
@@ -99,3 +99,9 @@ Datasource on the website
 - Global Destination Cities Index : https://newsroom.mastercard.com/wp-content/uploads/2019/09/GDCI-Global-Report-FINAL-1.pdf
 - Most inbound tourists by country : https://data.world/payapdatasci/thai-tourism/workspace/file?filename=thaitourism2.csv
 - Crime rate data : https://data.worldbank.org/indicator/VC.IHR.PSRC.P5?end=2017&locations=TH&start=1990&view=chart
+
+Visualization in the story :
+I use Tabluae and Flourish to create visualization in the story.
+
+
+Photo citation : 
