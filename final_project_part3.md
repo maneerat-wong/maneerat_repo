@@ -101,7 +101,13 @@ Datasource on the website
 - Crime rate data : https://data.worldbank.org/indicator/VC.IHR.PSRC.P5?end=2017&locations=TH&start=1990&view=chart
 
 Visualization in the story :
-I use Tabluae and Flourish to create visualization in the story.
+I use Tabluae and Flourish to create visualization in the story. However, the graph from Tabluae is very small when embed into  Shorthand. Therefore, I decided to capture the picture of those graph instead.
+
+1. Factors related to Thailand as a tourist destination: https://public.tableau.com/profile/maneerat4604#!/vizhome/ImportanceScoreonFactor/Sheet1
 
 
-Photo citation : 
+
+Reference : https://travel.eatsandretreats.com/family-things-to-do-thailand/
+
+
+
