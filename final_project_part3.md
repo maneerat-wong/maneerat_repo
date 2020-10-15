@@ -14,7 +14,7 @@ I can do this by planning a trip to Thailand
 I can do this by learning some Thai food 
 I can do this by studying more Thai
 
-## A project structure that outlines the major elements of your story. 
+## First Draft
 This is the first draft of my user story.
 ![image](user_story_draft1.jpg)
 
@@ -29,15 +29,13 @@ I had the first discussion with collueges in the class with my first user story.
 4. What do tourist usually do? (Give an a grisp of the feeling of visiting there)
 5. Call to action (Book the tour! Mark Thailand as your next destination!)
 
-## Data Source
-
-First Draft
 Tourism Data Set : https://data.world/payapdatasci/thai-tourism/workspace/file?filename=thaitourism2.csv << Showing the Tourism Stats
-Global Destination Cities Index : https://newsroom.mastercard.com/wp-content/uploads/2019/09/GDCI-Global-Report-FINAL-1.pdf
+Global Destination Cities Index : https://newsroom.mastercard.com/wp-content/uploads/2019/09/GDCI-Global-Report-FINAL-1.pdf << Showing the Tourusm Stats
 Covid-19 Data Set : https://www.statista.com/statistics/1043366/novel-coronavirus-2019ncov-cases-worldwide-by-country/ << This is an interesting data because Thailand has a very low number of cases and we are coping the situation very well. I though that it's a way to imply that out country is safe.
+Crime Rate : https://www.macrotrends.net/countries/THA/thailand/crime-rate-statistics
 
-
-## A few paragraphs summarizing your approach to the project  
+I planned to create the project on the shorthort with this storyboard.
+![image](web_draft.jpg)
 
 # Design and User Research
 
