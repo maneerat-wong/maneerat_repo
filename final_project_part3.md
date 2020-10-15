@@ -73,16 +73,17 @@ After that, I interviewed with three friends from different countries.
 
 I have a chance to present to firends in the class again on the modified version about the interview.
 
-<img src="Draft-2-1.png" width="250"/>
-<img src="Draft-2-2.png" width="250"/>
+<img src="Draft-2-1.png" width="300"/>
 I changed the line graph to the bar chart so that it's easier to see the comparison. I chose the blue color on the 2018 bar to highlight the latest situation.
-<img src="Draft-2-3.png" width="250"/>
-<img src="Draft-2-4.png" width="250"/>
-<img src="Draft-2-5.png" width="250"/>
-<img src="Draft-2-6.png" width="250"/>
-<img src="Draft-2-7.png" width="250"/>
-<img src="Draft-2-8.png" width="250"/>
-<img src="Draft-2-9.png" width="250"/>
+<img src="Draft-2-2.png" width="300"/>
+I chose the map to see show the distribution of the travellers across different countries.
+<img src="Draft-2-3.png" width="300"/>
+<img src="Draft-2-4.png" width="300"/>
+<img src="Draft-2-5.png" width="300"/>
+<img src="Draft-2-6.png" width="300"/>
+<img src="Draft-2-7.png" width="300"/>
+<img src="Draft-2-8.png" width="300"/>
+<img src="Draft-2-9.png" width="300"/>
 
 Surprisingly, most friends suggested me to remove the covid section because it's not persuasive enough and risky to say that Thailand is safe to go given the current situation. So I have to redesign those part again.
 
