@@ -90,3 +90,9 @@ Surprisingly, most friends suggested me to remove the covid section because it's
 # Final Data Story
 
 Final Presentation : https://carnegiemellon.shorthandstories.com/blending-into-the-land-of-smile/index.html
+
+Datasource on the website
+- Perception of foreigner vs Thai : https://www.researchgate.net/publication/247506743_Thailand_as_a_Tourist_Destination_Perceptions_of_International_Visitors_and_Thai_Residents
+- Quality of Life indicator :  https://www.numbeo.com/quality-of-life/region_rankings.jsp?title=2020-mid&region=142
+- Global Destination Cities Index : https://newsroom.mastercard.com/wp-content/uploads/2019/09/GDCI-Global-Report-FINAL-1.pdf
+- Most inbound tourists by country : https://data.world/payapdatasci/thai-tourism/workspace/file?filename=thaitourism2.csv
