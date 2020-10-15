@@ -114,7 +114,7 @@ I chose the bar graph and highlighted only the country from Thailand because I w
 I chose the map graph and the color with label so that it's easy to distinguish the density from each country.
 
 4. Quality of Life vs Cost of Living :https://public.tableau.com/profile/maneerat4604#!/vizhome/Quality_life_2020_Cost/Sheet2
-5. Quality of Life cs Health care index :
+5. Quality of Life cs Health care index : https://public.tableau.com/profile/maneerat4604#!/vizhome/Quality_life_2020/Sheet1
 
 I chose scatter plot for both (4) and (5) because I want to say that the quality of life might have to trade of with some factors in some countries. However, we can have both good quality of life with a reasonable cost of living and very decent health care system.
 
