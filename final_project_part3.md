@@ -89,6 +89,8 @@ Surprisingly, most friends suggested me to remove the covid section because it's
 
 # Final Data Story
 
+The audience of my story is foreigners who are considering a travel plan. I want to pursuade them to choose Thailand as a next destination.
+
 Final Presentation : https://carnegiemellon.shorthandstories.com/blending-into-the-land-of-smile/index.html
 
 Datasource on the website
@@ -96,3 +98,4 @@ Datasource on the website
 - Quality of Life indicator :  https://www.numbeo.com/quality-of-life/region_rankings.jsp?title=2020-mid&region=142
 - Global Destination Cities Index : https://newsroom.mastercard.com/wp-content/uploads/2019/09/GDCI-Global-Report-FINAL-1.pdf
 - Most inbound tourists by country : https://data.world/payapdatasci/thai-tourism/workspace/file?filename=thaitourism2.csv
+- Crime rate data : https://data.worldbank.org/indicator/VC.IHR.PSRC.P5?end=2017&locations=TH&start=1990&view=chart
