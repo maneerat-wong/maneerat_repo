@@ -74,8 +74,6 @@ I have a chance to present to firends in the class again on the modified version
 
 <img src="Draft-2-1.png" width="300"/>
 I changed the line graph to the bar chart so that it's easier to see the comparison. I chose the blue color on the 2018 bar to highlight the latest situation.
-<img src="Draft-2-2.png" width="300"/>
-I chose the map to see show the distribution of the travellers across different countries.
 <img src="Draft-2-3.png" width="300"/>
 <img src="Draft-2-4.png" width="300"/>
 <img src="Draft-2-5.png" width="300"/>
