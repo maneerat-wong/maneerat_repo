@@ -3,13 +3,12 @@
 ## The project outline 
 In this project, I want to show people the unique and surprising fact about my country,Thailand. Most people want to go to Thailand because of the tourism but I want to show other side of the country including culture and etc.
 
-There are 5 main parts :
+There are 4 main parts :
 
 1. Introduction (Make you feel excited and surprised on how popular Thailand is)
 2. What can you expect from this country? (Cultural aspect in the country and some interesting myst about Thailand)
 3. Is it safe to go? ( Well..I know that Thailand has so many very good and bad reputation about safety. Let's see which one is true.)
-4. What do tourist usually do? (Give an a grisp of the feeling of visiting there)
-5. Call to action (Book the tour! Mark Thailand as your next destination!)
+4. Call to action (Book the tour! Mark Thailand as your next destination!)
 
 ## A high-level summary of your project.  
 
@@ -110,15 +109,12 @@ I chose bar chart becuase it's the easiest graph to see the comparison. I highli
 https://public.flourish.studio/visualisation/3936377/
 I chose the bar graph and highlighted only the country from Thailand because I want to emphasize the high number of visitors among other cities.
 
-3. Tourists Distribution among countries : https://public.flourish.studio/visualisation/3944750/
-I chose the map graph and the color with label so that it's easy to distinguish the density from each country.
-
-4. Quality of Life vs Cost of Living :https://public.tableau.com/profile/maneerat4604#!/vizhome/Quality_life_2020_Cost/Sheet2
-5. Quality of Life cs Health care index : https://public.tableau.com/profile/maneerat4604#!/vizhome/Quality_life_2020/Sheet1
+3. Quality of Life vs Cost of Living :https://public.tableau.com/profile/maneerat4604#!/vizhome/Quality_life_2020_Cost/Sheet2
+4. Quality of Life cs Health care index : https://public.tableau.com/profile/maneerat4604#!/vizhome/Quality_life_2020/Sheet1
 
 I chose scatter plot for both (4) and (5) because I want to say that the quality of life might have to trade of with some factors in some countries. However, we can have both good quality of life with a reasonable cost of living and very decent health care system.
 
-6. Crime Rate : https://public.flourish.studio/visualisation/4028353/?utm_source=showcase&utm_campaign=visualisation/4028353
+5. Crime Rate : https://public.flourish.studio/visualisation/4028353/?utm_source=showcase&utm_campaign=visualisation/4028353
 I chose the line graph to show the trend of the crime rate. I want to tell the user that we are doing very well in the recent year and the trend has been changing in a good way.
 
 Reference : https://travel.eatsandretreats.com/family-things-to-do-thailand/
