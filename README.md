@@ -16,12 +16,11 @@ I'm interested in the methodoloy to present the data profesionally. As I want to
 After graduation, I want to be a data scientist in the company where I can use my technical skills and business experience to find an impactful insight to improve the company performance. I believe that the soft skills like presentation and data visualization are going to enhance my ability to deliver the best outcome to the company.
 
 # Personal Project on Data Scientist
-## Personal project on loan performance analysis
+[Personal project on loan performance analysis](https://github.com/maneerat-wong/loan_performance)
 
-https://github.com/maneerat-wong/loan_performance
 
-# Portfolio (Data Visulization)
-Here are some visualization that I have done....
+
+# Data Visualization Portfolio
 
 ## King County COVID-19 Data
 <div class="flourish-embed flourish-chart" data-src="visualisation/3707683" data-url="https://flo.uri.sh/visualisation/3707683/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
@@ -30,9 +29,8 @@ Here are some visualization that I have done....
 <iframe title="Pension Data" aria-label="chart" id="datawrapper-chart-swas4" src="https://datawrapper.dwcdn.net/swas4/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-[General_Government_Debt_Ratio](General_Government_Debt.md)
+[##General_Government_Debt_Ratio](General_Government_Debt.md)
 
-## Thailand : Your next travel Destination (Final Project)
+[##Thailand : Your next travel Destination (Final Project)](final_project_part3.md)
 
-Write-up : https://maneerat-wong.github.io/maneerat_repo/final_project_part3
-Presentation : https://carnegiemellon.shorthandstories.com/blending-into-the-land-of-smile/index.html
+[Presentation on Shorthan](https://carnegiemellon.shorthandstories.com/blending-into-the-land-of-smile/index.html)
