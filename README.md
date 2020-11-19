@@ -13,9 +13,6 @@ Here are a few interesting things about me....
 # Career Goal
 After graduation, I want to be a data scientist in the company where I can use my technical skills and business experience to find an impactful insight to improve the company performance. I believe that the soft skills like presentation and data visualization are going to enhance my ability to deliver the best outcome to the company.
 
-# Personal Project on Technical side
-[Personal project on loan performance analysis](https://github.com/maneerat-wong/loan_performance)
-
 # Data Visualization Portfolio
 
 ## King County COVID-19 Data
